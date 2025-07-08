@@ -39,3 +39,5 @@
 - ip2location
 - google maps
 
+Capture all nesscessary packets and credentials using the wireshark to perform the actions
+also connect to a public/industry network to get nesscessary packets to be captured 
